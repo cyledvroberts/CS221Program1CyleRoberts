@@ -50,3 +50,4 @@ The included `main.cpp` is **just an example written by myself** to demonstrate 
 ### Last compiled using clang:
 
 clang++ main.cpp Shape.cpp Circle.cpp Triangle.cpp -o main.exe
+![alt text](aYILEpu.png)
